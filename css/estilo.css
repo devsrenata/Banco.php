@@ -1,0 +1,17 @@
+.bg1{
+    background-image: url(../img/bank.png);
+    height: 400px;
+}
+.bg2{
+    background-image: url(../img/coins.png);
+    height: 350px;
+    
+}
+.rodape{
+   
+    text-align: center;
+    display: flex;
+    width: 100%;
+    color: aliceblue;
+    background-color: rgb(39, 37, 37);
+}
