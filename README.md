@@ -1,4 +1,3 @@
 # Banco.php
 
-![image](<img width="1887" height="926" alt="image" src="https://github.com/user-attachments/assets/fb11c26a-c3e4-45be-b3bf-f57444d5be5e" />)
-
+<img width="1883" height="927" alt="siteBanco" src="https://github.com/user-attachments/assets/1c22edb5-46e8-4863-a32b-0425d21e323c" />
